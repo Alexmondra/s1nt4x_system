@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>es</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acerca de Nosotros</title>
+      <link>http://localhost:1313/hacerca-de-nosotros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hacerca-de-nosotros/</guid>
+      <description>&lt;h1 id=&#34;acerca-de-nosotros&#34;&gt;Acerca de Nosotros&lt;/h1&gt;&#xA;&lt;h2 id=&#34;nuestra-historia&#34;&gt;Nuestra Historia&lt;/h2&gt;&#xA;&lt;p&gt;En &lt;strong&gt;S1nt4x System&lt;/strong&gt;, comenzamos con la visión de brindar soluciones tecnológicas innovadoras que transformen la manera en que las empresas operan. Desde nuestros inicios, hemos trabajado con dedicación para ofrecer productos de calidad que resuelvan problemas reales.&lt;/p&gt;&#xA;&lt;h2 id=&#34;misión&#34;&gt;Misión&lt;/h2&gt;&#xA;&lt;p&gt;Nuestra misión es &lt;strong&gt;impulsar la transformación digital&lt;/strong&gt; mediante el desarrollo de software y herramientas tecnológicas que faciliten el crecimiento de nuestros clientes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;visión&#34;&gt;Visión&lt;/h2&gt;&#xA;&lt;p&gt;Ser reconocidos como líderes en la industria tecnológica por nuestro compromiso con la excelencia, innovación y servicio al cliente.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
