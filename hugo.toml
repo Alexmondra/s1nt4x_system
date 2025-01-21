@@ -1,0 +1,25 @@
+baseURL = "https://example.org/"
+languageCode = "es"
+title = "S1nt4x System"
+theme = "ananke"
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+    [[menu.main]]
+    name = "Servicios"
+    url = "/servicios/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Hacerca de nosotros"
+    url = "/hacerca-de-nosotros/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contáctanos"
+    url = "/contacto/"
+    weight = 4

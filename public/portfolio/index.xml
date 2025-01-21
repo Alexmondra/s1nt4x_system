@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on S1nt4x System</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolios on S1nt4x System</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto inicio</title>
+      <link>http://localhost:1313/portfolio/proyecto1/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/proyecto1/</guid>
+      <description>&lt;p&gt;Este proyecto es uno de los ejemplos de nuestra experiencia en desarrollo de software.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
