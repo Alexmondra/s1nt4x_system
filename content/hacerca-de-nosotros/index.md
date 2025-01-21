@@ -1,5 +1,5 @@
 ---
-title: "Acerca de Nosotros"
+title: "Acerca de Nosotrosssssssss"
 description: "Conoce más sobre nuestra historia, misión y valores en S1nt4x System."
 ---
 
