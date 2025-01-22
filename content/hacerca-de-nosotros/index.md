@@ -1,8 +1,17 @@
 ---
-title: "Acerca de Nosotrosssssssss"
+title: "Acerca de Nosotros"
 description: "Conoce más sobre nuestra historia, misión y valores en S1nt4x System."
+carousel:
+  - image: "/images/nosotros1.jpeg"
+    alt: "Primera nosotros"
+    active: true
+  - image: "/images/nosotros2.jpeg"
+    alt: "Segunda nosotros"
+  - image: "/images/nosotros3.jpeg"
+    alt: "Tercera nosotros"
 ---
 
+{{< carousel >}}
 # Acerca de Nosotros
 
 ## Nuestra Historia
