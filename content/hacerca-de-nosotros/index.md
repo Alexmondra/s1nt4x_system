@@ -21,7 +21,7 @@ En **S1nt4x System**, comenzamos con la visión de brindar soluciones tecnológi
 Nuestra misión es **impulsar la transformación digital** mediante el desarrollo de software y herramientas tecnológicas que faciliten el crecimiento de nuestros clientes.
 
 ## Visión
-Ser reconocidos como líderes en la industria tecnológica por nuestro compromiso con la excelencia, innovación y servicio al cliente.
+Ser reconocidos como líderes en innovación tecnológica, creando soluciones de software que transformen la manera en que las empresas y las personas interactúan con la tecnología, impulsando el desarrollo sostenible y el crecimiento global a través de productos de alta calidad, seguridad y eficiencia.
 
 ## Nuestros Valores
 - **Innovación**: Siempre buscamos soluciones nuevas y creativas.
