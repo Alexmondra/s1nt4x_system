@@ -23,3 +23,7 @@ theme = "ananke"
     name = "Contáctanos"
     url = "/contacto/"
     weight = 4
+
+
+[params]
+  customCSS = ["scss/nosotros.scss"]

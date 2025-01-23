@@ -1,0 +1,9 @@
+.carousel-item img {
+    height: 500px; /* Ajusta la altura de las imágenes */
+    object-fit: cover; /* Asegúrate de que las imágenes se recorten correctamente */
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(100%); /* Cambia el color de los íconos a blanco */
+}

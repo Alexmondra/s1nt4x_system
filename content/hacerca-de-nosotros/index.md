@@ -4,7 +4,6 @@ description: "Conoce más sobre nuestra historia, misión y valores en S1nt4x Sy
 carousel:
   - image: "/images/nosotros1.jpeg"
     alt: "Primera nosotros"
-    active: true
   - image: "/images/nosotros2.jpeg"
     alt: "Segunda nosotros"
   - image: "/images/nosotros3.jpeg"
@@ -18,8 +17,7 @@ carousel:
 En **S1nt4x System**, comenzamos con la visión de brindar soluciones tecnológicas innovadoras que transformen la manera en que las empresas operan. Desde nuestros inicios, hemos trabajado con dedicación para ofrecer productos de calidad que resuelvan problemas reales.
 
 ## Misión
-Nuestra misión es **impulsar la transformación digital** mediante el desarrollo de software y herramientas tecnológicas que faciliten el crecimiento de nuestros clientes.
-
+Proveer soluciones de software innovadoras, personalizadas y de alta calidad que ayuden a nuestros clientes a alcanzar sus objetivos empresariales. Nos comprometemos a combinar tecnología avanzada con un enfoque centrado en el cliente, promoviendo la colaboración, la creatividad y el desarrollo sostenible en cada proyecto que emprendemos.
 ## Visión
 Ser reconocidos como líderes en innovación tecnológica, creando soluciones de software que transformen la manera en que las empresas y las personas interactúan con la tecnología, impulsando el desarrollo sostenible y el crecimiento global a través de productos de alta calidad, seguridad y eficiencia.
 
